@@ -4,7 +4,6 @@
 
 > 使用NobyDa “京东多合一签到脚本”为基础，移植到github actions自动化执行。
 
-
 ## 触发方式
 * 点亮`Star`
 * 凌晨4点定时执行
@@ -49,7 +48,6 @@
 * 菜单栏`发送消息`拷贝SCKEY；
 
 
-
 ## 效果截图
 
 ![WechatIMG3](./images/WechatIMG3.jpeg)
@@ -61,7 +59,6 @@
 * [NobyDa/Script/JD-DailyBonus](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
 * [ruicky/jd-sign-bot](https://github.com/ruicky/jd_sign_bot)
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
-
 
 1 2
 2 12345 签到改变
